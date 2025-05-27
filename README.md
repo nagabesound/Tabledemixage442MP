@@ -1,2 +1,2 @@
-# Tabledemixage442MP
+# Table de mixage 442MP
 Table de mixage via un STM32
