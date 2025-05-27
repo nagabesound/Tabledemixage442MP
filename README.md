@@ -8,3 +8,4 @@ Traitement audio en temps reél via un STM32
 L'acquisition se fait via DMA avec un double buffer sur l'ADC1. On place ensuite les échantillons dans un deuxieme doucle buffer plus grand pour le traitement et on envoie au DAC les échantillons traité via DMA et double buffer. 
 Avec deux potentiometres tactiles on peut controler le volume d'entré dans le buffer de traitement et le volume de sortie. 
 
+![Tache Position du doigt](https://github.com/user-attachments/assets/8599ece8-5712-44e3-b906-7407fece3610)
