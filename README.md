@@ -12,7 +12,9 @@ Avec deux potentiometres tactiles on peut controler le volume d'entré dans le b
 
 ## Ressource STM32 utilisées :
 
-GPIO
-ADC
-DAC
-Ecran via la bibliothèque BSP_LCD
+GPIO,
+ADC,
+DAC,
+Ecran via la bibliothèque BSP_LCD,
+DMA,
+
